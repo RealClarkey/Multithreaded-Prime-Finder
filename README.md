@@ -22,5 +22,5 @@ This program reads a list of numbers from a file and uses multithreading to iden
 ##  How to Compile and Run
 
 ```bash
-gcc task3.c -o prime_finder -lpthread -lm
+gcc prime.c -o prime_finder -lpthread -lm
 ./prime_finder [thread_count] [filename]
