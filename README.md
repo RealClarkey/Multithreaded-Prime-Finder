@@ -1,6 +1,6 @@
 # Multithreaded Prime Finder (C, POSIX Threads)
 
-This program reads a list of numbers from a file and uses multithreading to identify and count all the prime numbers. It was developed as part of a second-year module in *Numerical Methods and Concurrency* at City Campus, and scored **97/100**.
+This program reads a list of numbers from a file and uses multithreading to identify and count all the prime numbers. It was developed as part of a second-year module in *Numerical Methods and Concurrency* .
 
 ## Features
 - Efficient prime number detection using `sqrt(n)` logic.
